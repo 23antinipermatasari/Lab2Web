@@ -6,30 +6,30 @@ Kelas   : TI.20.B.1<br>
 Nim     : 312010095<br>
 
 Pratikum<br>
-## 1. Membuat dokumen HTML
+## 1. Membuat dokumen HTML<br>
 source code untuk membuat html kira kira seperti dibawah ini :<br>
 ![gambar dokumen](Gambar/gambar%20ke%201.PNG)<br>
 jika sudah menginput, coba buka file di browser dan kira kira seperti dibawah ini :<br>
 ![gambar input](Gambar/gambar%201a.PNG)<br>
-## 2. Mendeklarasikan CSS Internal
-source code untuk membuat CSS Internal kira kira seperti dibawah ini :
+## 2. Mendeklarasikan CSS Internal<br>
+source code untuk membuat CSS Internal kira kira seperti dibawah ini :<br>
 ![gambar](Gambar/gambar%20ke%202.PNG)<br>
-jika sudah ditambahkan kita buka file browser dan kira kira seperti ini :
+jika sudah ditambahkan kita buka file browser dan kira kira seperti ini :<br>
 ![gambar output](Gambar/gambar%202a.PNG)<br>
-## 3. Menambahkan Inline CSS
-source code untuk membuat inline CS kira kira seperti dibawah ini :
+## 3. Menambahkan Inline CSS<br>
+source code untuk membuat inline CS kira kira seperti dibawah ini :<br>
 ![gambar](Gambar/gambar%20ke%205.PNG)<br>
-jika sudah ditambahkan kita buka file browser dan kira kira seperti ini :
+jika sudah ditambahkan kita buka file browser dan kira kira seperti ini :<br>
 ![gambar](Gambar/gambar%203a.PNG)<br>
-## 4. Membuat CSS EKsternal
-source code untuk membuat nama style_ek kira kira seperti dibawah ini :
+## 4. Membuat CSS EKsternal<br>
+source code untuk membuat nama style_ek kira kira seperti dibawah ini :<br>
 ![gambar](Gambar/gambar%20ke%204.PNG)<br>
-jika sudah ditambahkan kita buka file browser dan kira kira seperti ini :
+jika sudah ditambahkan kita buka file browser dan kira kira seperti ini :<br>
 ![gambar](Gambar/Gambar%204a.PNG)<br>
-## 5. Menambahkan CSS Selector
-selanjutnya kita membuat source code kira kira seperti dibawah ini :
+## 5. Menambahkan CSS Selector<br>
+selanjutnya kita membuat source code kira kira seperti dibawah ini :<br>
 ![gambar](Gambar/gambar%20ke%204.PNG)<br>
-jika sudah ditambahkan kita buka file browser dan kira kira seperti dibawah ini :
+jika sudah ditambahkan kita buka file browser dan kira kira seperti dibawah ini :<br>
 ![gambar](Gambar/gambar%20ke%206.PNG)<br>
 
 Demikian step-step pembelajaran dari saya.
@@ -42,26 +42,26 @@ Maafkan jika ada kekurangan dalam step-step nya.<br>
 Jawaban : <br>
 ![gambar](Gambar/Gambar%20ke%208.PNG)<br>
 
-    Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+    Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!<br>
 
-Jawaban :
+Jawaban :<br>
 
-Perbedaaannya jika hanya h1{} maka akan merubah semua yang ada didalam elemen h1 sedangkan intro h1 hanya akan merubah yang memiliki tag intro.
+Perbedaaannya jika hanya h1{} maka akan merubah semua yang ada didalam elemen h1 sedangkan intro h1 hanya akan merubah yang memiliki tag intro.<br>
 
     Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
-
-Jawaban :
+<br>
+Jawaban :<br>
 
 Jika ketiga CSS merubah elemen yang sama maka deklarasi tersebut akan mengikuti aturan prioritas dimana prioritas CSS nya seperti ini:
 ![gambar](Gambar/Gambar9.PNG)<br>
-Dibawah ini sudah terdapat 2 css mencoba merubah warna text h1 :
+Dibawah ini sudah terdapat 2 css mencoba merubah warna text h1 :<br>
 ![gambar](Gambar/gambar%20ke%207.PNG)<br>
-Dan hasilnya seperti ini : 
+Dan hasilnya seperti ini : <br>
 ![gambar](Gambar/Gambar%20ke%209.PNG)<br>
 4. 
     Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! 
-
-Jawaban :
+<br>
+Jawaban :<br>
 ![gambar](Gambar/gambar%20ke%207.PNG)<br>
 ![gambar](Gambar/Gambar%20ke%2010.PNG)<br>
 ![gambar](Gambar/Gambar%20ke%209.PNG)<br>
