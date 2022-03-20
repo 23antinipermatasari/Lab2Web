@@ -7,15 +7,15 @@ Nim     : 312010095<br>
 
 Pratikum<br>
 ## 1. Membuat dokumen HTML
-source code untuk membuat html kira kira seperti dibawah ini :
+source code untuk membuat html kira kira seperti dibawah ini :<br>
 ![gambar dokumen](Gambar/gambar%20ke%201.PNG)<br>
-jika sudah menginput, coba buka file di browser dan kira kira seperti dibawah ini :
+jika sudah menginput, coba buka file di browser dan kira kira seperti dibawah ini :<br>
 ![gambar input](Gambar/gambar%201a.PNG)<br>
 ## 2. Mendeklarasikan CSS Internal
 source code untuk membuat CSS Internal kira kira seperti dibawah ini :
 ![gambar](Gambar/gambar%20ke%202.PNG)<br>
 jika sudah ditambahkan kita buka file browser dan kira kira seperti ini :
-![gambar](gambar/gambar%202a.PNG)<br>
+![gambar output](Gambar/gambar%202a.PNG)<br>
 ## 3. Menambahkan Inline CSS
 source code untuk membuat inline CS kira kira seperti dibawah ini :
 ![gambar](Gambar/gambar%20ke%205.PNG)<br>
